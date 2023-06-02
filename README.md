@@ -2,7 +2,16 @@
 
 ![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
 
-The recent monkeypox outbreak has become a global healthcare concern owing to its rapid spread in more than 65 countries around the globe. To obstruct its expeditious pace, early diagnosis is a must. But the confirmatory Polymerase Chain Reaction (PCR) tests and other biochemical assays are not readily available in suffiecient quantities. In this scenario, computer-aided monkeypox identification from skin lesion images can be a beneficial measure. Nevertheless, so far, such datasets are not available. Hence, the ["Moneypox Skin Lesion Dataset (MSLD)"](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset) is created by collecting and processing images from different means of web-scrapping i.e., from news portals, websites and publicly accessible case reports. <br />
+The global outbreak of the virus previously called 'Monkeypox', now referred to as mpox, has caused widespread concern over the past year and continued to be a major topic in public health news headlines. During the peak transmission period back in July 2022, the World Health Organization (WHO) declared it a Public Health Emergency of International Concern (PHEIC). To obstruct its expeditious pace, early diagnosis was a must at that time. In that scenario, computer-aided monkeypox identification from skin lesion images could be a beneficial measure.
+
+Nevertheless, no such datasets were available initially. As a pioneering work, we then released the ["Moneypox Skin Lesion Dataset (MSLD)"](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset) is created by collecting and processing images from different means of web-scrapping i.e., from news portals, websites and publicly accessible case reports.
+
+
+
+when ecent epidemiological data indicate that the mpox outbreak is slowing down in the American and European regions, while the transmission is still ongoing in African regions~\cite{2023Multi}. In May 2023, WHO announced that mpox is no longer classified as a PHEIC \cite{2023Mpox}.
+
+
+<!--The recent monkeypox outbreak has become a global healthcare concern owing to its rapid spread in more than 65 countries around the globe.  But the confirmatory Polymerase Chain Reaction (PCR) tests and other biochemical assays are not readily available in suffiecient quantities. --> <br />
 
 Graphical representation of our intended working pipeline:<br />
 
