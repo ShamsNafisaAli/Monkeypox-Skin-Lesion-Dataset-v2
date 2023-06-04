@@ -33,7 +33,17 @@ Some sample images from the dataset:<br />
 
 # Dataset Description
 The dataset contains a total number of 755 images from 541 unique patients. The class distribution is presented as follows:
-![Data Statistics](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2/blob/main/Assets/data_stats.JPG) -->
+
+| Class label                    | No. of Original Images | No. of Unique Patients |
+|-------------------------------|-----------------------|------------------------|
+| Mpox                          | 284                   | 143                    |
+| Chickenpox                    | 75                    | 62                     |
+| Measles                       | 55                    | 46                     |
+| Cowpox                        | 66                    | 41                     |
+| Hand, foot and mouth disease  | 161                   | 144                    |
+| Healthy                       | 114                   | 105                    |
+| Total                         | 755                   | 54                     |
+
 
 There are 2 folders in the dataset.<br />
 
