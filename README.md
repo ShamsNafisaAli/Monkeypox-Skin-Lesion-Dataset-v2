@@ -20,13 +20,13 @@ Graphical representation of our intended working pipeline:<br />
 
 This repository gives access to the Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0). The creation of this dataset is primarily focused on distinguishing the monkeypox cases from the similar non-monkeypox cases. Therefore, along with the 'Monkeypox' class, we included skin lesion images of 4 other disease classes (and the healthy class) because of their resemblance to the monkeypox rash and pustules in initial state. These classes can be put together in to perform binary classification or we can use them for performing differential diagnosis via multi-class classification.<br />
 
-The dataset itself is available for download at the [Kaggle]([https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-datase](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20)t) or the [Google Drive](https://drive.google.com/drive/folders/1bIYqAW-vqDBq3Ou_UMXPwgemqfZeqQi5?usp=sharing).<br />
+The dataset itself is available for download at the [Kaggle](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20) or the [Google Drive](https://drive.google.com/drive/folders/1bIYqAW-vqDBq3Ou_UMXPwgemqfZeqQi5?usp=sharing).<br />
 
 
 Some sample images from the dataset:<br />
 
 
-![Sample Images](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/sample%20images.png)
+![Sample Images](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/MSLD V2_Collage.jpg)
 
 
 * * *
