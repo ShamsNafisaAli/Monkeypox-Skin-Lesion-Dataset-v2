@@ -26,7 +26,7 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 Some sample images from the dataset:<br />
 
 
-![Sample Images](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/MSLD V2_Collage.jpg)
+![Sample Images](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2/blob/main/Assets/MSLD V2_Collage.jpg)
 
 
 * * *
