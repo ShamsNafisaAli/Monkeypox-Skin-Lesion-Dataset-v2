@@ -1,5 +1,4 @@
-# Monkeypox-Skin-Lesion-Dataset-v2
-## Expanded Mpox Skin Lesion Dataset: 6 Distinct Classes for Robust Classification 
+# Monkeypox-Skin-Lesion-Dataset-v2 data set: 6 Distinct Classes for Robust Classification Benchmarking  
 
 ![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
 
