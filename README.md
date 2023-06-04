@@ -4,11 +4,7 @@
 
 The global outbreak of the virus previously called 'Monkeypox', now referred to as mpox, has caused widespread concern over the past year and continued to be a major topic in public health news headlines. During the peak transmission period back in July 2022, the World Health Organization (WHO) declared it a Public Health Emergency of International Concern (PHEIC). To obstruct its expeditious pace, early diagnosis was a must at that time. In that scenario, computer-aided monkeypox identification from skin lesion images could be a beneficial measure.
 
-Nevertheless, no such datasets were available initially. As a pioneering work, we then released the ["Moneypox Skin Lesion Dataset (MSLD)"](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset) is created by collecting and processing images from different means of web-scrapping i.e., from news portals, websites and publicly accessible case reports.
-
-
-
-when ecent epidemiological data indicate that the mpox outbreak is slowing down in the American and European regions, while the transmission is still ongoing in African regions~\cite{2023Multi}. In May 2023, WHO announced that mpox is no longer classified as a PHEIC \cite{2023Mpox}.
+Nevertheless, no such datasets were available initially. Realizing the significance of instant release of such a dataset, we then pineered the creation of the ["Moneypox Skin Lesion Dataset (MSLD)"](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset) by collecting and processing 'monkeypox' and 'non-monkeypox' (measles, chickenpox)images from different means of web-scrapping i.e., from news portals, websites and publicly accessible case reports. Now that the cases have come under control, ensuring the clinical soundness of the data through expert verification and feedback incorporation is crucial for developing effective algorithms to tackle any future cases of monkeypox or diseases with similar skin lesions. Therefore, we introduce an updated version, ["Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0)"](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20). Instead of placing the non-mpox cases in a single class, we have added definite class labels such as, chickenpox, measles, cowpox, hand-foot-mouth disease, and healthy. 
 
 
 <!--The recent monkeypox outbreak has become a global healthcare concern owing to its rapid spread in more than 65 countries around the globe.  But the confirmatory Polymerase Chain Reaction (PCR) tests and other biochemical assays are not readily available in suffiecient quantities. --> <br />
@@ -22,9 +18,9 @@ Graphical representation of our intended working pipeline:<br />
 
 # Contents
 
-This repository gives access to the Moneypox Skin Lesion Dataset. The creation of this dataset is primarily focused on distinguishing the monkeypox cases from the similar non-monkeypox cases. Therefore, along with the 'Monkeypox' class, we included skin lesion images of 'Chickenpox' and 'Measles' because of their resemblance to the monkeypox rash and pustules in initial state in another class named 'Others' to perform binary classification.<br />
+This repository gives access to the Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0). The creation of this dataset is primarily focused on distinguishing the monkeypox cases from the similar non-monkeypox cases. Therefore, along with the 'Monkeypox' class, we included skin lesion images of 4 other disease classes (and the healthy class) because of their resemblance to the monkeypox rash and pustules in initial state. These classes can be put together in to perform binary classification or we can use them for performing differential diagnosis via multi-class classification.<br />
 
-The dataset itself is available for download at the [Kaggle](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset) or the [Google Drive](https://drive.google.com/drive/folders/1bIYqAW-vqDBq3Ou_UMXPwgemqfZeqQi5?usp=sharing).<br />
+The dataset itself is available for download at the [Kaggle]([https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-datase](https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-dataset-version-20-msld-v20)t) or the [Google Drive](https://drive.google.com/drive/folders/1bIYqAW-vqDBq3Ou_UMXPwgemqfZeqQi5?usp=sharing).<br />
 
 
 Some sample images from the dataset:<br />
