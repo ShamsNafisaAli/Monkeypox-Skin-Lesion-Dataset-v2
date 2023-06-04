@@ -45,6 +45,7 @@ The dataset contains a total number of 755 images from 541 unique patients. The 
 | Total                         | 755                   | 54                     |
 
 
+
 There are 2 folders in the dataset.<br />
 
 1) Original Images: This folder includes a subfolder named "FOLDS" containing five folds (fold1-fold5) for 5-fold cross-validation with the original images. Each fold has separate folders for the test, train, and validation sets.<br />
