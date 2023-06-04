@@ -1,4 +1,5 @@
 # Monkeypox-Skin-Lesion-Dataset-v2
+## Expanded Mpox Skin Lesion Dataset: 6 Distinct Classes for Robust Classification 
 
 ![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
 
@@ -32,8 +33,8 @@ Some sample images from the dataset:<br />
 * * *
 
 # Dataset Description
-
-<!-- ![Data Division](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/data.JPG) -->
+The dataset contains a total number of 755 images from 541 unique patients. The class distribution is presented as follows:
+![Data Statistics](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2/blob/main/Assets/data_stats.jpg) -->
 
 There are 2 folders in the dataset.<br />
 
