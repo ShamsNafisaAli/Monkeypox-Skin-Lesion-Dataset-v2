@@ -94,23 +94,21 @@ The codes required to build and train the model, all the javascript, css and htm
 
 If this dataset helped your research, please cite the following [papers](https://arxiv.org/abs/2207.03342):<br />
 
-Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2207.03342.
-
-
-  
->@article{Nafisa2022,<br />
-  title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
-  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
-  journal={arXiv preprint arXiv:2207.03342},<br />
-  year={2022}<br />
-}
- 
- 
-Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2207.03342.
+Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:xxxx.xxxxx.
 
 >@article{Nafisa2023,<br />
   title={A Study on Mpox Skin Lesion Detection Using State-of-the-art Deep Learning Models},<br />
   author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Asma,     Anzirun Nahar and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:xxxx.xxxxx},<br />
   year={2023}<br />
+}
+
+
+Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2207.03342.
+
+>@article{Nafisa2022,<br />
+  title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
+  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
+  journal={arXiv preprint arXiv:2207.03342},<br />
+  year={2022}<br />
 }
