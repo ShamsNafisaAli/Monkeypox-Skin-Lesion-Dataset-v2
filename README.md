@@ -1,4 +1,5 @@
-# Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0): 6 Distinct Classes for Robust Classification Benchmarking  
+# Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0)
+## Expanded Mpox Skin Lesion Dataset: 6 Distinct Classes for Robust Classification Benchmarking  
 
 ![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
 
