@@ -83,7 +83,7 @@ To see, how you can use this dataset for performing binary classification, pleas
 
 # Web-Application
 
-Since we intend to build an end to end solution - starting with dataset creation and ending with a live web app, a prototype of the web-app has already been developed using the open-source python streamlit framework with a flask core and has been hosted in the powerful heroku server for better user experience. In the app, [Skin Lesion Detector](https://monkey-pox-detector-mhealthlab.herokuapp.com/), users can get, not only a suggestion but also the accuracy of the suggestion. <br />
+Since we intend to build an end to end solution - starting with dataset creation and ending with a live web app, a prototype of the web-app has already been developed using the open-source python streamlit framework with a flask core and has been hosted in the streamlit provided server for better user experience. In the app, [Skin Lesion Detector](https://skinlesionclassifierbymhealthlab.streamlit.app/), users can get, not only a suggestion but also the accuracy of the suggestion. <br />
 
 The codes required to build and train the model, all the javascript, css and html files as well as the trained model will be made opem-source soon. The app's dynamic and future updates will incorporate the ability to store user data and use them to train the model realtime.<br />
 
