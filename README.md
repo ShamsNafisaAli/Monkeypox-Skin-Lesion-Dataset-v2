@@ -87,7 +87,7 @@ Since we intend to build an end to end solution - starting with dataset creation
 
 The codes required to build and train the model, all the javascript, css and html files as well as the trained model will be made opem-source soon. The app's dynamic and future updates will incorporate the ability to store user data and use them to train the model realtime.<br />
 
-![Sample Images](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2/blob/main/Assets/app_interface.jpg)
+![Sample Images](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2/blob/main/Assets/App_interface.png)
 
 * * *
 
