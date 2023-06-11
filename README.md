@@ -95,11 +95,11 @@ The codes required to build and train the model, all the javascript, css and htm
 
 If this dataset helped your research, please cite the following [papers](https://arxiv.org/abs/2207.03342):<br />
 
-Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:xxxx.xxxxx.
+Ahmed, M. T., Paul, J., Jahan, T., Ali, S. N., Sani,  S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:xxxx.xxxxx.
 
->@article{Nafisa2023,<br />
+>@article{Ahmed2023,<br />
   title={A Study on Mpox Skin Lesion Detection Using State-of-the-art Deep Learning Models},<br />
-  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Asma,     Anzirun Nahar and Hasan, Taufiq},<br />
+  author={Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Ali, Shams Nafisa and Sani,  S. M. Sakeef and Noor, Nawshaba and Asma,     Anzirun Nahar and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:xxxx.xxxxx},<br />
   year={2023}<br />
 }
