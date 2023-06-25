@@ -97,7 +97,7 @@ If this dataset helped your research, please cite the following [papers](https:/
 
 Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity. arXiv preprint arXiv:xxxx.xxxxx.
 
->@article{Ali2023,<br />
+>@article{Nafisa2023,<br />
   title={A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity},<br />
   author={Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Ali, Shams Nafisa and Sani,  S. M. Sakeef and Noor, Nawshaba and Asma,     Anzirun Nahar and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:xxxx.xxxxx},<br />
