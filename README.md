@@ -1,5 +1,6 @@
 # Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0)
-## Expanded Mpox Skin Lesion Dataset: 6 Distinct Classes for Robust Classification Benchmarking  
+## Expanded Mpox Skin Lesion Dataset: 6 Distinct Classes for Robust Classification Benchmarking 
+In this repo, you will find the recent updates, code releases, and errata of our previously released ["Moneypox Skin Lesion Dataset (MSLD)"](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset). Since the updated version has been verified by a dermatologist, watch this repo!
 
 ![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
 
