@@ -96,7 +96,7 @@ The codes required to build and train the model, all the javascript, css and htm
 
 If this dataset helped your research, please cite the following papers:<br />
 
-Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2024). [A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity.]([https://doi.org/10.1016/j.bspc.2024.106742]) Biomedical Signal Processing and Control, 98, 106742.
+Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2024). [A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity](https://doi.org/10.1016/j.bspc.2024.106742) Biomedical Signal Processing and Control, 98, 106742.
 
 >@article{Ali2024,<br />
   title={A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity},<br />
